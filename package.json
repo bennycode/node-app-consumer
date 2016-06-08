@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-app": "git+https://github.com/bennyn/node-app.git#1.0.0"
+  },
+  "name": "node-app-consumer",
+  "private": true,
+  "version": "1.0.0"
+}
